@@ -1,5 +1,5 @@
-C:\Users\TI-021\AndroidStudioProjects\PhotoPlay\app\build\intermediates\classes\debug
-C:\Users\TI-021\AndroidStudioProjects\PhotoPlay\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e59e6667c3970c62ca2fee3a967034da9554444b.jar
-C:\Users\TI-021\AndroidStudioProjects\PhotoPlay\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-a576a7a0d06b404e4fdc7bb6553ce8a298a39b11.jar
-C:\Users\TI-021\AndroidStudioProjects\PhotoPlay\app\build\intermediates\pre-dexed\debug\classes-692297d7360d694d4227498c4e88daa2399a8987.jar
-C:\Users\TI-021\AndroidStudioProjects\PhotoPlay\app\build\intermediates\pre-dexed\debug\classes-49dc2cadc92de6b3dd807f66c682b952f36c3fbd.jar
+C:\Users\hiroko\.AndroidStudio\PhotoPlay\app\build\intermediates\classes\debug
+C:\Users\hiroko\.AndroidStudio\PhotoPlay\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-9cf8a4ed2556e85ef2d531b1c6283aa4e02e538a.jar
+C:\Users\hiroko\.AndroidStudio\PhotoPlay\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d4ef59c4f75427818a3ffa7d89c0953d55b15cff.jar
+C:\Users\hiroko\.AndroidStudio\PhotoPlay\app\build\intermediates\pre-dexed\debug\classes-5316a4030db614004c43060c85593e59df076b1f.jar
+C:\Users\hiroko\.AndroidStudio\PhotoPlay\app\build\intermediates\pre-dexed\debug\classes-39ebfd3b6ce726306dfa72b8b82284984535dff1.jar
